@@ -21,10 +21,10 @@ Q.1.Check if the sentence is Grammatically correct: Please use any pre-trained m
 
 Ans. https://github.com/rupasawant95/grammatically-correct
 
-sub Q 1.Write about any difficult problem that you solved. (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution). 
+sub 1.Write about any difficult problem that you solved. (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution). 
 
-    Q.2.Formally, a vector space V' is a subspace of a vector space V if
+    2.Formally, a vector space V' is a subspace of a vector space V if
 
-    Q.3.Which of the following is a subspace of V?
+    3.Which of the following is a subspace of V?
 
 Ans. https://github.com/rupasawant95/Part-2-quetions
